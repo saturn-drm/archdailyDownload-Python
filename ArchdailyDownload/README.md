@@ -1,4 +1,4 @@
-# archdailyDownload
+# ArchdailyDownload
 *An undergraduate architect learning about coding (mainly Python3) in his summer vacation.*<br>
 
 **Only for learning.**<br>
