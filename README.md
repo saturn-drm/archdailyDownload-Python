@@ -1,10 +1,10 @@
-#Python crawl
+# Python crawl<br>
 *An undergraduate architect learning about coding (mainly Python3) in his summer vacation.*<br>
 **Only for study.**<br>
-## go141.py
+## go141.py<br>
 *Crawl the statistics of the everyday stars on go141, write into an Excel file.*<br>
 别问我怎么知道这个网站的。<br>
-##MDCuteGirls.py
+## MDCuteGirls.py<br>
 *Download the images of sex girls on a website.*<br>
 **Using threading module.**<br>
 * 之前写的第一个练习爬虫的脚本；
