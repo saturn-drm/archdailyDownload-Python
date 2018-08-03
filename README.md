@@ -5,7 +5,7 @@
 *Crawl the statistics of the everyday stars on go141, write into an Excel file.*<br>
 别问我怎么知道这个网站的。<br>
 ## MDCuteGirls.py<br>
-*Download the images of sex girls on a website.*<br>
+*Download the images of sexy girls on a website.*<br>
 **Using threading module.**<br>
 * 之前写的第一个练习爬虫的脚本；
 * 加入重复筛选和多线程下载；
