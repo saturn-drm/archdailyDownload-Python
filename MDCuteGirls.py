@@ -59,8 +59,8 @@ def downloadMM(startNum, endNum):
 os.makedirs('/Users/meizihan/Documents/VScode/Python/sexyGirls', exist_ok=True)
 os.chdir('/Users/meizihan/Documents/VScode/Python/sexyGirls')
 downloadThreadList = []
-for i in range(1, 10, 2):
-    downloadThread = threading.Thread(target=downloadMM, args=(i, i+1))
+for i in range(1, 1500, 100):
+    downloadThread = threading.Thread(target=downloadMM, args=(i, i+99))
     downloadThreadList.append(downloadThread)
     downloadThread.start()
 for downloadThread in downloadThreadList:
